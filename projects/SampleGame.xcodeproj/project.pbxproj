@@ -67,6 +67,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0A24389F1EE211570070F044 /* Monster.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Monster.h; sourceTree = "<group>"; };
 		5F35EB531BC84F3800FCF070 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../src/main.cpp; sourceTree = SOURCE_ROOT; };
 		5F35EB551BC84F4300FCF070 /* ResourcePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ResourcePath.h; path = ../src/ResourcePath.h; sourceTree = SOURCE_ROOT; };
 		5F35EB561BC84F4300FCF070 /* ResourcePathMac.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = ResourcePathMac.mm; path = ../src/ResourcePathMac.mm; sourceTree = SOURCE_ROOT; };
@@ -138,6 +139,7 @@
 		5FF4FE8E1BB33EE60079FC4C = {
 			isa = PBXGroup;
 			children = (
+				0A24389F1EE211570070F044 /* Monster.h */,
 				5FC0A39B1C38CB8200BFD80B /* Add new source code files here */,
 				5FF4FE9A1BB33EE60079FC4C /* SampleGame */,
 				5FF4FE991BB33EE60079FC4C /* Products */,

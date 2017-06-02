@@ -31,7 +31,7 @@ int main()
           //make sure that you follow this order!
 		window.clear();
 
-          window.display();
+        window.display();
 	}
 
 	return 0;
